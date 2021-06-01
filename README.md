@@ -1,3 +1,4 @@
+https://galaxybrainhuman.com
 - 👋 Hi, I’m Brian Herman @GalaxyBrainHuman222
 - 👀 I’m interested in python, javascript, vintage computing, git/github and IT Helpdesk support.
 - 🌱 I’m currently learning how to relax.
@@ -8,17 +9,6 @@
 Unique Insurance/Producers National
 Produced payment app that handles hundreds of thousands of 
 dollars of payment per day. 
-
-I prototyped and automated voice system. Which is now maintained by my current supervisor.
-Setup VPN to allow company to work from home during pandemic.
-system on amazon. Created backup AWS EC2 VPN that had a custom python
-Elastic Compute authorizing function to authenticate with active directory.
-Cloud Lead workshops on things that have made me successful such as
-Amazon’s version of technologies
-Virtual Machines Deep Learning/Data Cleaning, Networking
-Amazon LEX, Connect Setup Amazon Workspaces, and AWS Active Directory to connect
-and Lambda. to our on premises active directory
-e and More features of AWS VPC which both were setup by the them.
 
 
 
@@ -42,25 +32,6 @@ fork of pysimplesoap.
 
 💻 Tracked errors and bugs with self-hosted Sentry.io instance on
 Amazon.
-
-Every performance review has been positive.
-
-Created Documentation for Cisco managed network switch
-network
-Created documentation for hylafax web to POTS(Non cell phone
-AKA Land Line) faxing system.
-Automated Cancelation and Reinstatement for Underwriting that
-allowed us to expand in more states without increasing headcount.
-President of Company stated that we would have had to hire 4
-people to do what my program does automatically.
-Created feature to allow our customers to enable automatic
-monthly payments through our website which helped us retain
-them as customers for longer periods.
-Trained boss and colleagues to use GIT. Was so successful that we
-bought paid plans for github.com.
- Created prototype of swift app but due to management we decided
-against it.
-
 
 
 🤖Automated Cancelation and Reinstatement Script🤖
