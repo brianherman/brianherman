@@ -1,7 +1,7 @@
 https://galaxybrainhuman.com
 https://www.linkedin.com/in/brian-herman-092919208/
 
-- 👋 Hi, I’m Brian Herman @GalaxyBrainHuman222
+- 👋 Hi, I’m Brian Herman @brianherman
 - 👀 I’m interested in python, javascript, vintage computing, git/github and IT Helpdesk support.
 - 🌱 I’m currently learning how to build vintage computing networks and even more python!
 - 📫 How to reach me bherman.live@gmail.com.
