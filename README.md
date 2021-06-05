@@ -1,16 +1,17 @@
 https://galaxybrainhuman.com
+https://www.linkedin.com/in/brian-herman-092919208/
+
 - 👋 Hi, I’m Brian Herman @GalaxyBrainHuman222
 - 👀 I’m interested in python, javascript, vintage computing, git/github and IT Helpdesk support.
-- 🌱 I’m currently learning how to relax.
-- 📫 How to reach me bherman.live@gmail.com
+- 🌱 I’m currently learning how to build vintage computing networks and even more python!
+- 📫 How to reach me bherman.live@gmail.com.
 💻Experience💻
 2014-Current
 
 Unique Insurance/Producers National
-Produced payment app that handles hundreds of thousands of 
+Produced payment webapp that handles hundreds of thousands of 
 dollars of payment per day. 
-
-
+PCI Compliant for seven years.
 
 💻State Compliance💻
 
